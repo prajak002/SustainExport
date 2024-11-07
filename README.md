@@ -1,6 +1,5 @@
-# EcoExport Assist
+# SustainExport
 
-**EcoExport Assist** is a GenAI-powered platform designed to simplify international trade for eco-friendly businesses. It provides a comprehensive, actionable guide for companies expanding globally by aggregating compliance requirements, incentives, and regulations for exports to the US and Europe.
 
 ---
 
